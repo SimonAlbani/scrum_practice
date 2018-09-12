@@ -1,3 +1,22 @@
 body {
-    background: blanchedalmond;
+  background: blanchedalmond;
+  font-family: "Indie Flower", cursive;
+  text-align: center;
+  width: 920px;
 }
+
+.landing-page {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  text-decoration: none;
+}
+/* aside {
+  padding-right: 100px;
+} */
