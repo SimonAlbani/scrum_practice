@@ -61,10 +61,17 @@ a:hover {
   font-size: 2em;
 }
 
-.gallery {}
+.gallery {
+  width: 400px;
+  height: 300px;
+  margin: 0 2px;
+}
 
 .img-gallery {
   display: flex;
+  height: 1000px;
+  width: 1500px;
+  flex-wrap: wrap;
 }
 
 p {
