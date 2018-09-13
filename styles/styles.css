@@ -32,7 +32,7 @@ a {
   flex-grow: 1;
 }
 
-img {
+.main-image {
   height: 500px;
   width: 500px;
   flex-grow: 8;
@@ -41,8 +41,18 @@ img {
 h1 {
   color: #85130b;
   font-size: 5em;
+  font-weight: 700;
 }
 
 h2 {
   font-size: 3em;
+}
+
+a:hover {
+  color: white;
+}
+
+.intro {
+  color: white;
+  font-weight: 600;
 }
