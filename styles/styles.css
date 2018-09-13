@@ -61,7 +61,10 @@ a:hover {
   font-size: 2em;
 }
 
-.gallery {}
+.cat-image {
+  width: 200px;
+  height: 200px;
+}
 
 .img-gallery {
   display: flex;
