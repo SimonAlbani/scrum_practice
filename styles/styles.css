@@ -47,7 +47,7 @@ h1 {
 
 h2 {
   font-size: 3em;
-  margin-top: 50px;
+  /* margin-top: 50px; */
   color: white;
 }
 
@@ -64,10 +64,17 @@ a:hover {
 .cat-image {
   width: 200px;
   height: 200px;
+.gallery {
+  width: 350px;
+  height: 300px;
+  margin: 0 2px;
 }
 
 .img-gallery {
   display: flex;
+  height: 1000px;
+  width: 1200px;
+  flex-wrap: wrap;
 }
 
 p {
@@ -76,6 +83,6 @@ p {
 }
 
 .content-container {
-  margin-left: 20%;
-  margin-right: 20%;
+  margin-left: 10%;
+  margin-right: 10%;
 }
