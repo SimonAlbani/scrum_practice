@@ -62,7 +62,7 @@ a:hover {
 }
 
 .gallery {
-  width: 400px;
+  width: 350px;
   height: 300px;
   margin: 0 2px;
 }
@@ -70,7 +70,7 @@ a:hover {
 .img-gallery {
   display: flex;
   height: 1000px;
-  width: 1500px;
+  width: 1200px;
   flex-wrap: wrap;
 }
 
