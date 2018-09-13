@@ -61,6 +61,9 @@ a:hover {
   font-size: 2em;
 }
 
+.cat-image {
+  width: 200px;
+  height: 200px;
 .gallery {
   width: 350px;
   height: 300px;
