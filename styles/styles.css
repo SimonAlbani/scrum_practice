@@ -55,4 +55,11 @@ a:hover {
 .intro {
   color: white;
   font-weight: 600;
+  font-size: 2em;
+}
+
+.gallery {}
+
+.img-gallery {
+  display: flex;
 }
