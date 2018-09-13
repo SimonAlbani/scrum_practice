@@ -47,7 +47,7 @@ h1 {
 
 h2 {
   font-size: 3em;
-  margin-top: 50px;
+  /* margin-top: 50px; */
   color: white;
 }
 
@@ -80,6 +80,6 @@ p {
 }
 
 .content-container {
-  margin-left: 20%;
-  margin-right: 20%;
+  margin-left: 10%;
+  margin-right: 10%;
 }
