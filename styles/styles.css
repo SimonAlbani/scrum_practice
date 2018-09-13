@@ -1,5 +1,8 @@
 body {
   background-color: #baba70;
+  background-image: url("../img/bamboo.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
   font-family: "Indie Flower", cursive;
   text-align: center;
   width: 100%;
@@ -21,7 +24,10 @@ li {
 
 a {
   text-decoration: none;
+  color: #85130b;
+  font-weight: 700;
 }
+
 .aside {
   flex-grow: 1;
 }
