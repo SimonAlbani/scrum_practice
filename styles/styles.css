@@ -64,18 +64,19 @@ a:hover {
 .cat-image {
   width: 200px;
   height: 200px;
+}
 .gallery {
   width: 350px;
   height: 300px;
   margin: 0 2px;
 }
 
-.img-gallery {
+/* .gallery {
   display: flex;
   height: 1000px;
   width: 1200px;
   flex-wrap: wrap;
-}
+} */
 
 p {
   font-size: 2em;
