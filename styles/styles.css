@@ -90,6 +90,7 @@ p {
 }
 
 footer {
-    background: #85130b;
+    margin-top: 50px;
     color: white;   
+    font-size: 30px;
 }
